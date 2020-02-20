@@ -1,0 +1,43 @@
+body{
+    background-image: url(../img/montanhas.jpg);
+    background-position: center;
+    background-size: cover;
+    font-family: 'Segoe UI';
+}
+#card{
+    width: 32%;
+    margin: 100px auto;
+    text-align: center;
+    padding: 1.25%;
+    background-color: rgb(224, 224, 224);
+}
+
+div h1{
+    color: rgb(59, 58, 58);
+    font-weight: 300;
+}
+
+.entrada{
+    width: 60%;
+    margin: 5px;
+    padding: 10px;
+    border-color: 1px black;
+}
+
+.botao{
+    width: 60%;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color: rgb(43, 43, 255);
+    font-weight: 600;
+    color: white;
+}
+
+div a{
+    width: 60%;
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(43, 43, 255);
+}
+

@@ -1,0 +1,59 @@
+body{
+    background-image: url(../img/mata.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    font-family: 'Segoe UI';
+}
+
+#card{
+    width: 32%;
+    height: 110%;
+    margin: 100px auto;
+    text-align: center;
+    background-color: rgb(224, 224, 224);
+    padding: 1.25%;
+}
+
+.info{
+    width: 60%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.user{
+    width: 60%;
+    padding: 10px;
+    margin: 5px;
+}
+
+.button{
+    width: 60%;
+    padding: 10px;
+    margin: 5px;
+    color: aliceblue;
+    background-color:rgb(43, 43, 255);
+    border: none;
+    font-weight: 600;
+}
+
+div{
+    margin: 10px 0px 10px 0px;
+}
+
+div h1{
+    color:rgb(59, 58, 58);
+    font-weight: 400;
+}
+
+div h3{
+    color:rgb(59, 58, 58);
+}
+
+div a{
+    margin: 5px;
+    text-decoration: none;
+    color: rgb(43, 43, 255);
+}

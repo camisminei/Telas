@@ -1,0 +1,53 @@
+body{
+    background-image: url(../img/montanhas.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+    font-family: 'Segoe UI';
+}
+
+#card{
+    width: 32%;
+    margin: 100px auto;
+    text-align: center;
+    padding: 1.25%;
+    background-color: rgb(224, 224, 224)
+
+}
+
+.input{
+    width: 60%;
+    margin: 5px;
+    padding: 10px;
+}
+
+.button{
+    width: 60%;
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    background-color:rgb(43, 43, 255);
+    color: aliceblue;
+    font-weight: 600;
+}
+
+div h1{
+    margin: 5px 0px 5px 0px;
+    color:rgb(59, 58, 58);
+    font-weight: 400;
+}
+
+div a{
+    margin: 10px;
+    text-decoration: none;
+    color: rgb(43, 43, 255);
+}
+
+div img{
+    margin: 5px 0px 5p 0px;
+}
+
+div{
+    margin: 5px 0px 5px 0px;
+}
